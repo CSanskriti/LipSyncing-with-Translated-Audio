@@ -1,0 +1,12 @@
+moviepy
+IPython
+speechbrain
+torch
+torchaudio
+openai-whisper
+googletrans==4.0.0-rc1
+gTTS
+voice-cloning
+numpy==1.26.2
+librosa==0.10.1
+TTS
