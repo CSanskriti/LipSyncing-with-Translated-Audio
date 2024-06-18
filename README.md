@@ -1,0 +1,2 @@
+# LipSyncing with Translated Audio
+LipSyncing with Translated Audio is a project aimed at enhancing and translating audio from videos, performing voice cloning, and synchronizing the translated audio with the original video through lip syncing. This repository provides scripts and tools to automate these tasks, making it easier to process and create videos with translated audio synced to the speaker's lip movements.
