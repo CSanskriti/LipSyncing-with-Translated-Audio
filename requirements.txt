@@ -1,12 +1,12 @@
 moviepy
 IPython
-speechbrain
-torch
-torchaudio
+speechbrain==1.0.0
+torch==2.1.2
+torchaudio==2.1.2
 openai-whisper
 googletrans==4.0.0-rc1
 gTTS==2.5.1
-voice-cloning
+voice-cloning==0.0.9
 numpy==1.26.2
 librosa==0.8.1
-TTS
+TTS==0.22.0
