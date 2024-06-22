@@ -1,11 +1,11 @@
 moviepy
-IPython==7.34.0
+IPython
 speechbrain
 torch
 torchaudio
 openai-whisper
 googletrans==4.0.0-rc1
 gTTS
-numpy==1.23.5
-librosa==0.8.0
-tts==0.10.2
+numpy
+librosa
+tts
