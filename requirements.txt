@@ -1,13 +1,11 @@
 moviepy>=1.0.3
-IPython>=8.12.0
+IPython>=7.34.0  # Compatible with google-colab
 speechbrain>=0.5.14
 torch>=2.1.0
 torchaudio>=2.1.0
 openai-whisper>=20231117
 googletrans==4.0.0-rc1
 gTTS>=2.3.1
-numpy>=1.20.3,!=1.22.0,!=1.22.1,!=1.22.2
+numpy>=1.23.0,<1.24.0  # Compatible range to avoid conflicts
 librosa==0.8.0
 tts==0.10.2
-
-
