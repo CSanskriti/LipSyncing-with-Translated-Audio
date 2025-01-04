@@ -1,6 +1,7 @@
 # Lipsyncing with Translated Audio
 
 This project demonstrates an end-to-end pipeline for lip-syncing videos with translated audio, enabling multilingual accessibility and enhanced video editing capabilities. The pipeline involves extracting audio from a video, enhancing the audio quality, transcribing and translating the audio, generating synthesized speech, and lip-syncing the translated audio to the original video.
+https://colab.research.google.com/drive/1yvqbgZZPMlCcXi8nk9ItxzY2Nk7-3Gfs?usp=sharing
 
 ---
 
