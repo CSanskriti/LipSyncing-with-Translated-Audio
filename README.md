@@ -129,5 +129,8 @@ python /content/Wav2Lip/inference.py --checkpoint_path /content/Wav2Lip/checkpoi
 ## Acknowledgments
 
 - **IndicTrans2**: AI4Bharat's translation models for Indian languages.
+- **OpenAI Whisper**: This is for accurate text transcribing.
 - **Wav2Lip**: Real-time lip-syncing using GANs.
 - **SpeechBrain**: Pretrained models for audio enhancement.
+
+
